@@ -9,3 +9,10 @@
 7. That's it, any commit you made will get notified in the master repo. Please do not make a pull request to the master.
 
 Apologize for the delay, it's relatively hard to setup initial github classroom since the repo need to be configured in strictly specific condition.
+
+
+Nama: Vivia Marsha Syaharani
+NIM: 1313623050
+Ilmu Komputer A 2023
+
+How to compile: Run the code
