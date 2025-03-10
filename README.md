@@ -12,7 +12,9 @@ Apologize for the delay, it's relatively hard to setup initial github classroom 
 
 
 Nama: Vivia Marsha Syaharani
+
 NIM: 1313623050
+
 Ilmu Komputer A 2023
 
 How to compile: Run the code
